@@ -1,3 +1,8 @@
+# editors
+*~
+.*.swp
+
+# erlang
 .eunit
 deps
 *.o
